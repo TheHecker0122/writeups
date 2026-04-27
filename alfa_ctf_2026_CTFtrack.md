@@ -1,14 +1,16 @@
-#red flag 
-**Флаг**: `alfactf{mv_from_W3B_ui_T0_wHIpT4il}`
-**Теги:** linux, logic
-**Категория:** Misc / Linux  
-**Сложность:** Easy
+# red flag 
+
+**Флаг**: `alfactf{mv_from_W3B_ui_T0_wHIpT4il}` <br>
+**Теги:** linux, logic <br>
+**Категория:** Misc / Linux <br> 
+**Сложность:** Easy <br> <br>
 
 Описание задания:
 Как понять суть gorpcore? Конечно, расставить ред-флаги на всё, что к нему не относится! Скорее присоединяйтесь к нашему тир-листу.
 
-Дан скрипт: [redflag.sh](https://alfactf.ru/files/redflag.sh)
+Дан скрипт: [redflag.sh](https://alfactf.ru/files/redflag.sh) <br><br>
 
+**Эксплуатация:** <br>
 - **Зайдите в систему под любым именем**
     
 - **Найдите цель:**  
